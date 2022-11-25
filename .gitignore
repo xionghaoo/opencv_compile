@@ -1,0 +1,13 @@
+/build
+/build_android
+/build_js
+/android-ndk-r21e
+/apache-ant-1.10.12
+/emsdk
+/sdk
+/*.zip
+/opencv_android
+/opencv-4.x
+/opencv_contrib-4.x
+LICENSE
+README.android
